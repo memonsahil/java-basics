@@ -9,6 +9,7 @@ Commonly used Java features from versions 8 - 17.
 - Stream API (Java 8)
 - Optional (Java 8)
 - Private Methods in Interfaces (Java 9)
+- Module System (Jigsaw) (Java 9)
 - Local Variable Type Inference (var) (Java 10)
 - String Class Methods (Java 11)
 - Switch Expressions (Java 12)
