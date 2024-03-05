@@ -1,18 +1,18 @@
-## Getting Started
+# Java Basics (8 - 17)
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Commonly used Java features from versions 8 - 17.
 
-## Folder Structure
+## Features
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- Functional Interfaces (Java 8)
+- Lambda Expressions (Java 8)
+- Stream API (Java 8)
+- Optional (Java 8)
+- Private Methods in Interfaces (Java 9)
+- Local Variable Type Inference (var) (Java 10)
+- String Class Methods (Java 11)
+- Switch Expressions (Java 12)
+- Switch Expressions (Enhanced) (Java 14)
+- Text Blocks (Java 15)
+- Records (Java 16)
+- Sealed Classes & interfaces (Java 17)
