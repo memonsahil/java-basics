@@ -49,7 +49,7 @@ public final class App implements SealedInterface {
                 "Local Variable Type Inference (var) (Java 10): " + list.get(0) + " " + list.get(1) + list.get(2));
 
         /*
-         * String Methods (Java 11):
+         * String Class Methods (Java 11):
          * Introduces useful methods to the String class, such as
          * isBlank() and strip().
          */

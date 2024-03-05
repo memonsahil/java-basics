@@ -1,7 +1,7 @@
 package main.java.com.basics.common;
 
 /*
-* Functional Interface (Java 8):
+* Functional Interfaces (Java 8):
 * Interfaces with an abstract method.
 */
 public interface Interface {
